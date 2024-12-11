@@ -3,22 +3,23 @@ hide:
   - toc
 ---
 
-hyperopt
+Hyperopt
 ========
 
 # Available modules
 
 
-The overview below shows which hyperopt installations are available per HPC-UGent Tier-2 cluster, ordered based on software version (new to old).
+The overview below shows which Hyperopt installations are available per HPC-UGent Tier-2 cluster, ordered based on software version (new to old).
 
-To start using hyperopt, load one of these modules using a `module load` command like:
+To start using Hyperopt, load one of these modules using a `module load` command like:
 
 ```shell
-module load hyperopt/0.2.4-intel-2019b-Python-3.7.4-Java-1.8
+module load Hyperopt/0.2.7-foss-2022a
 ```
 
 *(This data was automatically generated on {{modules_last_updated}})*  
 
 | |accelgor|doduo|donphan|gallade|joltik|shinx|skitty|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|hyperopt/0.2.4-intel-2019b-Python-3.7.4-Java-1.8|-|x|x|-|-|-|-|
+|Hyperopt/0.2.7-foss-2022a|-|x|x|x|-|-|-|
+|Hyperopt/0.2.7-foss-2021a|-|x|x|-|-|-|-|
